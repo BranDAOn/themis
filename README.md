@@ -7,6 +7,8 @@
 
 You can hire and access Reuben's consulting services by [purchasing his $CNSL token](https://uniswap.exchange/swap?outputCurrency=0xea0bea4d852687c45fdc57f6b06a8a92302baabc "purchasing his token $CNSL").
 
+**NEED TO FORK IN THE ABILITY TO DENY OR REFUSE SERVICES FOR CONFLICTS OR IF ILLEGAL.**
+
 **This is a template Terms of Service for your personal token.**
 
 This template is: 
